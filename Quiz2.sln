@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34031.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quiz2", "Quiz2\Quiz2.csproj", "{6B0816F3-DA90-4045-BBB7-A239797CC6B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quiz2.Tests", "Quiz2.Tests\Quiz2.Tests.csproj", "{E7EECF16-3703-4E04-9782-B37C53C582F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quiz2DB", "Quiz2DB\Quiz2DB.csproj", "{228AEE27-3CAA-4EA9-8C84-773374EE1361}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B0816F3-DA90-4045-BBB7-A239797CC6B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B0816F3-DA90-4045-BBB7-A239797CC6B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B0816F3-DA90-4045-BBB7-A239797CC6B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B0816F3-DA90-4045-BBB7-A239797CC6B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7EECF16-3703-4E04-9782-B37C53C582F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7EECF16-3703-4E04-9782-B37C53C582F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7EECF16-3703-4E04-9782-B37C53C582F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7EECF16-3703-4E04-9782-B37C53C582F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{228AEE27-3CAA-4EA9-8C84-773374EE1361}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{228AEE27-3CAA-4EA9-8C84-773374EE1361}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{228AEE27-3CAA-4EA9-8C84-773374EE1361}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{228AEE27-3CAA-4EA9-8C84-773374EE1361}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6EAB0634-A37D-4E7D-8957-B8BCEADB2FA8}
+	EndGlobalSection
+EndGlobal
